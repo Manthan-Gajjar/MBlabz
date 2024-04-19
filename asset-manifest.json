@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MBlabz/static/css/main.dddd1bac.css",
+    "main.js": "/MBlabz/static/js/main.b8a70ecd.js",
+    "static/js/453.5e560239.chunk.js": "/MBlabz/static/js/453.5e560239.chunk.js",
+    "static/media/Home.jpg": "/MBlabz/static/media/Home.f323a9f94a2480264419.jpg",
+    "static/media/Home 2.jpg": "/MBlabz/static/media/Home 2.32db70554f8fb983538e.jpg",
+    "static/media/Web.jpg": "/MBlabz/static/media/Web.92456f32fd064395a603.jpg",
+    "static/media/App.jpg": "/MBlabz/static/media/App.1170f92ac9244ad8fd05.jpg",
+    "static/media/Cyber.jpg": "/MBlabz/static/media/Cyber.4f0cf3a09d1002e999e2.jpg",
+    "static/media/Software.jpg": "/MBlabz/static/media/Software.6eb3aff9283aab4877ed.jpg",
+    "static/media/ios.jpg": "/MBlabz/static/media/ios.61c0704a8cb2827145e6.jpg",
+    "static/media/Graphic.jpg": "/MBlabz/static/media/Graphic.1f4594bdf09fcfac66f9.jpg",
+    "index.html": "/MBlabz/index.html",
+    "main.dddd1bac.css.map": "/MBlabz/static/css/main.dddd1bac.css.map",
+    "main.b8a70ecd.js.map": "/MBlabz/static/js/main.b8a70ecd.js.map",
+    "453.5e560239.chunk.js.map": "/MBlabz/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dddd1bac.css",
+    "static/js/main.b8a70ecd.js"
+  ]
+}
