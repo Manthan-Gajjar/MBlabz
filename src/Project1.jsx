@@ -5,7 +5,7 @@ import App from './App.jsx';
 function Project1() {
     return ( <>
 
-<BrowserRouter>
+<BrowserRouter basename="/Mblabz">
 <App/>
 </BrowserRouter>
 

@@ -42,6 +42,7 @@
 
 .navbar-brand {
   padding: 0.6em 2em;
+  margin-left: 16px;
   border: none;
   outline: none;
   color: rgb(255, 255, 255);
@@ -106,7 +107,9 @@
   top: 0;
   border-radius: 10px;
 }
-
+.navbar-brand:hover{
+  color :#002bff
+}
 
 .brand_name{
     color: #5589f0;
@@ -143,4 +146,23 @@ h5{
 
 .container{
   margin-left: 1.7%;
+}
+
+.Mainpage{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: -110px;
+}
+#Contact-main{
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin-left: 6.5%;
+  
+}
+
+.navbar-nav{
+  text-align: right;
+  margin-right: 1%;
 }

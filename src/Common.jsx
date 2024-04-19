@@ -9,7 +9,7 @@ import { NavLink } from 'react-router-dom';
 
 function Common(props) {
     return ( <>
-         <section id="header" className='d-flex align-items-center'>
+         <section id="header" className='Mainpage'>
  <div className='container-fluid '>
     <div className='row'>
         <div className='col-10 ms-auto'>

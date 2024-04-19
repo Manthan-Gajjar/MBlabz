@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import Footer from './Footer';
+import './Project1.css'; 
+
 
 function Contact() {
     const [data, setData] = useState({
@@ -27,11 +29,11 @@ function Contact() {
 
     return (
         <>
-            <div className="my-5">
+            <div  className="my-5">
                 <h1 className="text-center">Contact Us</h1>
             </div>
 
-            <div className="container contact_div">
+            <div  id ="Contact-main" className="container contact_div">
                 <div className="row">
                     <div className="col-md-6 col-10 mx-auto">
                         <form onSubmit={handleSubmit}>
