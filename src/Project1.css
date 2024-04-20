@@ -153,16 +153,37 @@ h5{
    justify-content: center;
    align-items: center;
    margin-left: -110px;
+
 }
-#Contact-main{
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  margin-left: 6.5%;
-  
-}
+  #Contact-main{
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    margin-left: 6.5%;
+    /* margin-left: -1%; */
+    
+  }
 
 .navbar-nav{
   text-align: right;
   margin-right: 1%;
 }
+
+
+@media(min-width: 320px) {
+  /* Apply styles for mobile phones */
+  .Mainpage {
+      margin-left: -75px;
+  }
+}
+
+@media (min-width: 320px) {
+  /* Apply styles for mobile screens */
+  #Contact-main { 
+      margin-left: -1%;
+  }
+}
+
+
+   /* margin-left: -75px; */ 
+ /* margin-left: -1%; */                                
